@@ -40,7 +40,7 @@ class HomePage extends React.Component {
               <li>Basic Form validation</li>
               <li>Create/Modify/Remove course.</li>
               <li>Basic Animations</li>
-              <li>(TODO) Animate Delete course</li>
+
 
             </ul>
           </div>

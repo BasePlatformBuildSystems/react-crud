@@ -62,7 +62,7 @@ textarea {
 }
 
 
-/* remove courses */
+/* courses list apper */
 .course-item-appear {
   opacity: 0.01;
 }
@@ -71,6 +71,7 @@ textarea {
   transition: opacity .9s ease-in;
 }
 
+/* remove courses */
 .course-item-leave {
   opacity: 1;
 }

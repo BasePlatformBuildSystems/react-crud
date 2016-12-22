@@ -6,6 +6,9 @@ import './style.css';
 import configureStore from './store/configureStore';
 import { Provider } from 'react-redux';
 
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/css/bootstrap-theme.css';
+
 const store = configureStore();
 
 store.dispatch({

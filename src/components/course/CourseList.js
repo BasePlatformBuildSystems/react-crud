@@ -31,9 +31,9 @@ class CourseList extends React.Component{
             transitionName="course-item"
             transitionLeave={true}
             transitionAppear={true}
-            transitionAppearTimeout={2500}
-            transitionEnterTimeout={1700}
-            transitionLeaveTimeout={1000}
+            transitionAppearTimeout={700}
+            transitionEnterTimeout={700}
+            transitionLeaveTimeout={700}
             component="tbody"
           >
             {this.props.courses.map(course =>

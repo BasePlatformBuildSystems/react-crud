@@ -9,7 +9,10 @@ Simple React raw form with basic validations for learning purpose. Intention is 
   <li>Basic Form validation</li>
   <li>Create/Modify/Remove course.</li>
   <li>Basic Animations</li>
-  <li>(TODO) Animate Delete course - I am unable to get this working. I would like to fade away the removed item...</li>
+  <li>Animate Delete course.</li>
+  <li>(TODO) Modal confirmation with bootstrap</li>
+  <li>(TODO) Proper scalable way to write styles</li>
+  <li>(TODO) Unit test a few components</li>
 </ul>
 
 ## Run it
